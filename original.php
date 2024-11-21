@@ -43,7 +43,6 @@
                             <span class="hamburger-inner"></span>
                         </span>
                     </button>
-                </div>
             </div>
             <div class="app-header__menu">
                 <span>
